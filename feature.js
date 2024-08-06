@@ -1,1 +1,1 @@
-console.log("Conflict is  1")
+console.log("Conflict 1")
