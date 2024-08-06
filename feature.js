@@ -1,1 +1,1 @@
-console.log("new feature commit 3")
+console.log("Conflict 2")
